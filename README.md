@@ -1,5 +1,5 @@
-# Mapty ️ - Track Your Runs & Rides On Two Wheels 🏃‍♂️
-🚴‍♀️(Learning Project!)
+# Mapty ️ - Track Your Runs & Rides On Two Wheels 🚴‍♀️
+🏃‍♂️(Learning Project!)
 
 Calling all fitness enthusiasts and map adventurers!   
 **Mapty** is your soon-to-be ride-or-die app for visualizing those epic cycling  and running  adventures. 
