@@ -8,7 +8,7 @@ Calling all fitness enthusiasts and map adventurers!
 * **Track your workouts:** Let Mapty map your runs and rides, showing off those conquered miles like a champ!   **Leave a trail of glory!** 
 * **See it all on the map:** Relive those epic journeys with a visual tour of your workouts!  **Map your fitness victories!** ️
 * **Workout bar on the left:** Easily access your saved workouts on the left side of the screen.  **Quick access to your fitness achievements!** ⚡️
-* **Clear the slate (for now!) :** Feeling like a fresh start? Just type `App.reset()` in the console to delete all saved workouts. (But be careful, this feature is still under construction  **Use with caution!**  ⚠️) 
+* **Clear the slate (for now!) :** Feeling like a fresh start? Just type `app.reset()` in the console to delete all saved workouts. (But be careful, this feature is still under construction  **Use with caution!**  ⚠️) 
 
 **Give it a try!**
 
