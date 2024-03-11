@@ -28,4 +28,5 @@ We'd love for you to explore Mapty and see what it can do. Feel free to tinker, 
 
 **Happy running and riding!🏃‍♂️
 🚴‍♀️**
+
 **#Mapty #FitnessApp #WebDev #LearningProject  #TrackYourWorkouts #VisualizeYourJourney**
